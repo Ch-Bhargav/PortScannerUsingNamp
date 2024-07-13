@@ -1,17 +1,4 @@
-Here is the `README.md` file for your port scanner project:
-
-```markdown
 # PortScanner
-
-+----------------------------------------------------------------+
-|  This port scanner can scan only IPv4 addresses. With a simple |
-|  change in the Regex inside
-
-Here is the `README.md` file for your port scanner project:
-
-```markdown
-# PortScanner
-
 +----------------------------------------------------------------+
 |  This port scanner can scan only the IPv4 addresses. With a    |
 |  simple change in the Regex inside the code, it can also scan  |
