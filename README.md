@@ -1,13 +1,3 @@
-# PortScanner
-
-+----------------------------------------------------------------+
-|  This port scanner can scan only the IPv4 addresses. With a    |
-|  simple change in the Regex inside the code, it can also scan  |
-|  IPv6 addresses.                                               |
-|                                                                |
-|  Thanks for using this tool | Author: ButtlerFly@Black         |
-+----------------------------------------------------------------+
-
 ## Description
 This tool is a simple port scanner that scans a range of ports on a specified IPv4 address. It utilizes the `nmap` library to perform the port scanning and `figlet` to display an ASCII art title.
 
