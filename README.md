@@ -65,4 +65,4 @@ Port 80 is open
 This project is licensed under the MIT License.
 ```
 
-Feel free to modify the `<repository_url>` and other details as needed.
+Feel free to modify the `[<repository_url>](https://github.com/Ch-Bhargav/PortScannerUsingNamp)` and other details as needed.
